@@ -14,6 +14,9 @@ Currently working as <b>*Senior Backend Engineer*</b> in <a href="https://alamis
 <a href="https://twitter.com/@ragilwira">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
+<a href="https://medium.com/@ragilwira">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
 
 ### Tech Stack
 Languages:
