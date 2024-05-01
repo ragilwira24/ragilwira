@@ -3,7 +3,7 @@ My name is **Ragil Wiradiputra**
 
 I'm a <b>*engineer*</b> that specialist in read a log files whenever there's bugs in server, pretty good at handling it and probably can create one and has a beginner level in showing user experience and user interface
 
-Currently working as <b>*Senior Backend Engineer*</b> in Inticorpora Teknologi
+Currently working as <b>*Senior Backend Engineer*</b> in Home Credit Indonesia
 
 <a href="mailto:ragilwira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
